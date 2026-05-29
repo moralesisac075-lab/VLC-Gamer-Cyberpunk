@@ -1,2 +1,2 @@
 # VLC-Gamer-Cyberpunk
-Un rediseño de VLC de interfaz y de funciones, tipo gamer Cyberpunk
+Un rediseño total de VLC con nuevas funciones, tutoriales, interfaz innovadora y con tematica cyberpunk
